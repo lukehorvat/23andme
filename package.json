@@ -1,6 +1,6 @@
 {
   "name": "23andme",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "23andMe API wrapper.",
   "author": "Luke Horvat",
   "license": "MIT",
