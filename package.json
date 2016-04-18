@@ -29,8 +29,13 @@
     "23andme",
     "api",
     "node",
+    "node.js",
     "wrapper",
-    "client"
+    "client",
+    "biology",
+    "genomics",
+    "genome",
+    "dna"
   ],
   "babel": {
     "presets": [
