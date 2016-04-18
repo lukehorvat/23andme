@@ -1,7 +1,7 @@
 {
   "name": "23andme",
   "version": "1.0.1",
-  "description": "23andMe API wrapper.",
+  "description": "JavaScript wrapper for the 23andMe API.",
   "author": "Luke Horvat",
   "license": "MIT",
   "repository": {
