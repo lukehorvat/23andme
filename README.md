@@ -66,3 +66,7 @@ And the following properties:
   * The base URI of the 23andMe API.
 * `token`
   * The authorization token granted when `auth()` was called.
+
+## Disclaimer
+
+The package is not officially affiliated with 23andMe in any way. Use at own risk.
